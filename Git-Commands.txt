@@ -7,3 +7,4 @@ git status
 git add .
 git commit -m "messege"
 git push origin main
+git log
