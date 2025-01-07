@@ -1,0 +1,9 @@
+git init
+git remote add origin https://github.com/Mohit-chaudhary584/DevOps-Lab.git
+git config --global user.mail "you@example.com"
+git config --global user.name "Your Name"
+git branch -M main
+git status
+git add .
+git commit -m "messege"
+git push origin main
